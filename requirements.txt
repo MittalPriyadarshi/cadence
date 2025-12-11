@@ -1,0 +1,4 @@
+pika
+jinja2
+pytest
+fastapi
